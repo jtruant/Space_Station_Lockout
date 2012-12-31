@@ -1,0 +1,10 @@
+('C:\\Users\\Christian\\Desktop\\pyinstaller-2.0\\spaceStation\\build\\pyi.win32\\spaceStation\\spaceStation.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ True,
+ 0,
+ 1356903168L)
